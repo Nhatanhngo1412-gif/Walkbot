@@ -1,0 +1,229 @@
+{
+    "esp_enable": true,
+    "esp_visible_check": true,
+    "esp_box": false,
+    "esp_filled_box": false,
+    "esp_corners": false,
+    "esp_skeleton": true,
+    "esp_names": false,
+    "esp_teammates": true,
+    "esp_weapons": false,
+    "esp_health_bar": false,
+    "esp_armor_bar": false,
+    "esp_head_dot": false,
+    "esp_snap_lines": false,
+    "esp_eye_lines": false,
+    "esp_dropped_weapons": false,
+    "esp_ally_color": [
+        0.0,
+        1.0,
+        0.0,
+        0.8
+    ],
+    "esp_enemy_color": [
+        1.0,
+        0.0,
+        0.0,
+        0.8
+    ],
+    "esp_ally_snapline_color": [
+        0.0,
+        1.0,
+        0.0,
+        0.5
+    ],
+    "esp_enemy_snapline_color": [
+        1.0,
+        0.0,
+        0.0,
+        0.5
+    ],
+    "esp_box_border_color": [
+        0.1,
+        0.1,
+        0.1,
+        0.8
+    ],
+    "esp_box_fill_normal_color": [
+        0.23,
+        0.2,
+        0.19,
+        0.4
+    ],
+    "esp_box_fill_spotted_color": [
+        0.23,
+        0.3,
+        0.19,
+        0.4
+    ],
+    "esp_box_fill_immune_color": [
+        0.83,
+        0.3,
+        0.19,
+        0.4
+    ],
+    "esp_health_bar_color": [
+        1.0,
+        0.0,
+        0.0,
+        0.9
+    ],
+    "esp_health_bar_bg_color": [
+        0.0,
+        0.0,
+        0.0,
+        0.7
+    ],
+    "esp_armor_bar_color": [
+        0.05,
+        0.27,
+        0.56,
+        0.9
+    ],
+    "esp_head_dot_color": [
+        1.0,
+        0.0,
+        0.0,
+        0.7
+    ],
+    "esp_skeleton_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "esp_name_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "esp_weapon_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "esp_eye_line_color": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+    ],
+    "esp_dropped_weapon_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "esp_fov_color": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+    ],
+    "esp_crosshair_color": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+    ],
+    "walkbot_enable": true,
+    "show_waypoints": false,
+    "friendly_fire": true,
+    "dm_mode": true,
+    "walkbot_shot_delay": 0.20000000298023224,
+    "walkbot_aim_speed": 20.0,
+    "headshot_rate": 80.0,
+    "dm_burst_count": 4.0,
+    "dm_burst_cooldown_min": 0.3,
+    "dm_burst_cooldown_max": 0.5,
+    "account_switch_enable": true,
+    "account_switch_after_maps": 10.0,
+    "account_list": [
+        {
+            "username": "nhatanhngo1",
+            "password": "Top1Sv0103@",
+            "name": "Na1",
+            "steam_id": "76561198779314328"
+        },
+        {
+            "username": "nhatanhngo0002",
+            "password": "Top1Sv0103@",
+            "name": "Na2",
+            "steam_id": "76561198778330714"
+        },
+        {
+            "username": "nhatanhngo0103",
+            "password": "Nhatanhngo1412@",
+            "name": "Nathango<3",
+            "steam_id": "76561199567814156"
+        },
+        {
+            "username": "nhatanhngo3",
+            "password": "Top1Sv0103@",
+            "name": "Na3",
+            "steam_id": "76561198777812670"
+        },
+        {
+            "username": "nhatanhngo4",
+            "password": "Top1Sv0103@",
+            "name": "Na4",
+            "steam_id": "76561198775956232"
+        },
+        {
+            "username": "nhatanhngo5",
+            "password": "Top1Sv0103@",
+            "name": "Na5",
+            "steam_id": "76561198778851738"
+        },
+        {
+            "username": "nhatanhngo6",
+            "password": "Nhatanhngo1412@1214",
+            "name": "Na6",
+            "steam_id": "76561198764150461"
+        }
+    ],
+    "account_current_index": 0,
+    "account_switch_request": -1,
+    "auto_join_match": true,
+    "temp_auto_join": false,
+    "auto_join_points": [
+        {
+            "x_rel": 411.0,
+            "y_rel": 532.0
+        },
+        {
+            "x_rel": 997.0,
+            "y_rel": 28.0
+        },
+        {
+            "x_rel": 820.0,
+            "y_rel": 89.0
+        },
+        {
+            "x_rel": 957.0,
+            "y_rel": 128.0
+        },
+        {
+            "x_rel": 1584.0,
+            "y_rel": 532.0
+        },
+        {
+            "x_rel": 1673.0,
+            "y_rel": 1025.0
+        }
+    ],
+    "point_add_hotkey": "F1",
+    "bulk_accounts_text": "",
+    "auto_select_team": true,
+    "team_preference": 1,
+    "execute_team_t_request": false,
+    "execute_team_ct_request": false,
+    "config_profile": 0,
+    "hide_console": true,
+    "auto_load_config": "1.json",
+    "overlay_exe_path": "C:\\Users\\anhng\\Desktop\\Project1\\Debug\\Project1.exe",
+    "reset_requested": false,
+    "test_auto_join_request": false
+}
